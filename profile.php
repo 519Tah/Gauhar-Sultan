@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="profile-img">
-                            <img src="assets/pic/Mein-pic.jpeg" alt="picture" width=200 height=200/>
+                            <img src="assets/pic/Mein-pic.jpeg"  class="rounded" alt="picture" width=200 height=200/>
                             <div class="file btn btn-lg btn-primary">
                                 Change Photo
                                 <input type="file" name="file"/>
